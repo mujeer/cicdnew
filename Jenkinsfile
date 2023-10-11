@@ -22,7 +22,7 @@ pipeline{
 
             }
         }
-
+/*
         // Stage3 : Publish the source code to Sonarqube
         stage ('Sonarqube Analysis'){
             steps {
@@ -33,7 +33,7 @@ pipeline{
 
             }
         }
-
+*/
         
         
     }
